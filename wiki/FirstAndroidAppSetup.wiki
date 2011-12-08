@@ -1,0 +1,9 @@
+<b> Steps to create a hello world android application: </b>
+1.Download eclipse,android SDK,Ant 1.8 or above. <br/>
+2.Install android plugin in eclipse using  <a href="http://dl-ssl.google.com/android/eclipse/">android plugin</a> <br/>
+3.create a android project using New-->others-->android-->android project <br/>
+4.set path=%path%;%SDK_HOME%\tools;%SDK_HOME%\platforms-tools; in env variables.In my case SDK_HOME=D:\Mohan\Android App Development\android-sdk\android-sdk-windows <br/>
+5.open command prompt and traverse to the newly created project root folder.In my case it was "D:\Mohan\AndroidAppDev\WS\TestProject" <br />
+6.Type the below command to generate the build.xml file. <br /><br />
+<p algin="CENTER">android update project -t 2 -p .</p> <br />
+Succes message will appear in the console if build.xml is generated sucessfully.
