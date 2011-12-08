@@ -18,13 +18,11 @@ you should get the build successfull. <br />
 emulator -avd emulator_name -scale 76dpi<br />
 
 <b><font color="red">Note:</font>This will take few minutes to start be patient untill the emulator has been started.</b><br />
-11.Type the below command to install the <project_name>-debug.apk.In my case the project .apk was TestProjectActivity-debug.apk <br/>
+11.Type the below command to install the "project_name"-debug.apk.In my case the project .apk was TestProjectActivity-debug.apk <br/>
 adb install apk filename <br/>
 (i.e)In my case<br/>
 adb install TestProjectActivity-debug.apk<br />
-12.Its time to enjoy your own application in the emulator.You should able to find app icon with the project name in the list app's.<br />
+12.Its time to enjoy your own application in the emulator.You should able to find app icon with the project name in the list of app's.<br />
 
 Happy Coding :)
-
-
 
