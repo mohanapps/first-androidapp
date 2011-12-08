@@ -24,8 +24,8 @@ adb install apk filename <br/>
 adb install TestProjectActivity-debug.apk<br />
 12.Its time to enjoy your own application in the emulator.You should able to find app icon with the project name in the list of app's.<br />
 
-<b>Logging related stuffs </b>
-If your env variable's are properly configured with SDK_HOME\tools then just open a new command prompt and type to open dalvik debug monitor to see the application ans system out logs<br />
+<b>Logging related stuffs </b><br/>
+If your env variable's are properly configured with SDK_HOME\tools then just open a new command prompt and type below command to open dalvik debug monitor to see the application ans system out logs<br />
 <b>ddms</b>
 
 
