@@ -1,6 +1,6 @@
 <b> Steps to create a hello world android application: </b><br/>
 1.Download eclipse,<a href="http://developer.android.com/sdk/index.html">android SDK</a>,<a href="http://ant.apache.org/bindownload.cgi">Ant 1.8 or above.</a> <br/>
-2.Install android plugin in eclipse using  <a href="http://dl-ssl.google.com/android/eclipse/">android plugin</a> <br/>
+2.Install android plugin in eclipse using  android plugin - http://dl-ssl.google.com/android/eclipse/ <br/>
 3.create a android project using New-->others-->android-->android project <br/>
 4.set path=%path%;%SDK_HOME%\tools;%SDK_HOME%\platforms-tools; in env variables.In my case SDK_HOME=D:\Mohan\Android App Development\android-sdk\android-sdk-windows <br/>
 5.open command prompt and traverse to the newly created project root folder.In my case it was "D:\Mohan\AndroidAppDev\WS\TestProject" <br />
@@ -25,4 +25,3 @@ adb install TestProjectActivity-debug.apk<br />
 12.Its time to enjoy your own application in the emulator.You should able to find app icon with the project name in the list of app's.<br />
 
 Happy Coding :)
-
