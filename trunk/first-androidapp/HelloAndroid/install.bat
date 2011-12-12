@@ -1,0 +1,1 @@
+adb install -r bin\HelloAndroidActivity-debug.apk
