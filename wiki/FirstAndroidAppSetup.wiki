@@ -9,7 +9,7 @@ android update project -t 2 -p . <br />
 Succes message will appear in the console if build.xml is generated sucessfully.<br />
 7.Type below command to create a .apk in the bin folder.".apk" file a archive just like jar or war that will be installed in the mobile device or emulator as an application.<br/>
 
-ant debug <br />
+<b>ant debug</b> <br />
 you should get the build successfull. <br />
 8.Once the build is successfull your application is ready to be deployed in the emulator.<br/>
 9.Traverse into the bin folder which is a step ahead from your current directory in the command prompt.<br />
